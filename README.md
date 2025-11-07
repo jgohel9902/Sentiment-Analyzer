@@ -117,13 +117,15 @@ sentiment-analyzer/
 
 ---
 
-🧠 Example Inputs & Outputs
-Input Sentence	Predicted Sentiment
-"I love this app!"	😊 Positive
-"This is terrible."	😠 Negative
-"It’s okay, not bad."	😐 Neutral
-"I feel amazing today!"	😊 Positive
-"I don’t know how I feel."	😐 Neutral
+## 🧠 Example Inputs & Outputs
+
+| 💬 **Input Sentence**         | 🔍 **Predicted Sentiment** |
+|-------------------------------|----------------------------|
+| "I love this app!"            | 😊 **Positive**            |
+| "This is terrible."           | 😠 **Negative**            |
+| "It’s okay, not bad."         | 😐 **Neutral**             |
+| "I feel amazing today!"       | 😊 **Positive**            |
+| "I don’t know how I feel."    | 😐 **Neutral**             |
 
 
 🎨 Interface Highlights
