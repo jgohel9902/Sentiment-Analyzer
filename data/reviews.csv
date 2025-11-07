@@ -1,0 +1,9 @@
+text,sentiment
+"I love this product, it's amazing!",positive
+Absolutely horrible experience.,negative
+"The movie was fantastic, I enjoyed it.",positive
+This is the worst service ever.,negative
+"It’s okay, not bad but not great.",neutral
+I’m so happy with my purchase!,positive
+I hate waiting so long for delivery.,negative
+Decent experience overall.,neutral
